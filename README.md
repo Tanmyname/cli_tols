@@ -1,5 +1,5 @@
 # CLI TOLS
-![alt text](https://github.com/Tanmyname/Shizukav1.1/blob/main/icon.png?raw=true)
+![alt text](https://github.com/Tanmyname/Cli_tols/blob/main/icon.png?raw=true)
 ## ABOUT
 Cli_Tols is a tool for downloading and interacting AI via the terminal, Cli_Tols uses the Python language which you are free to modify and develop its features  Cli Tools 
 ### INSTALASION
